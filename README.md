@@ -1,6 +1,6 @@
 # MERN Shopping List
 
-#### Created from Traversy Tutorial with added tests
-
+#### Created from Traversy Tutorial
 ## Instructions: 
 // TODO
+add tests
